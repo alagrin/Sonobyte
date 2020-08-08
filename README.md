@@ -7,3 +7,5 @@ When users login they can see their previously created posts. If they click a po
 Users can click the fab/plus button to create a new post. They can also swipe left on a post to delete, and swipe up to refresh the page.
 
 ![Screen Shot 2020-08-08 at 12 05 51 AM](https://media.github.ccs.neu.edu/user/6490/files/7c35f500-d90b-11ea-856e-309307474e6f)
+
+- Pending Google Play Store publication
